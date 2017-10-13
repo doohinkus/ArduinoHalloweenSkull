@@ -11,5 +11,32 @@ Motion activated animatronic skull built with Arduino.
 ## Circuit
 ![neat hillar-sango](https://user-images.githubusercontent.com/16198607/31567648-68bea57e-b025-11e7-878c-6037fa880bd3.png)
 
+## Instructions
++ Clone repository
++ Build circuit
++ Connect Arduino to Components
++ Open Arduino IDE
++ Install Servo library for Arduino
++ Open the "halloween-skull.ino"
++ Upload sketch to Arduino
+
+## Known Bugs
+
+_There are no known bugs at this time._
+
+## Support and contact details
+
+_If you have any issue with this code, please contact me._
+
+## Technologies Used
+
+_Arduino IDE, C++ / C, UltraSonic Sensor, MicroServo_
+
+### License
+
+*MIT License*
+
+Copyright (c) 2017 **_Rafael Perez_**
+
 
 
