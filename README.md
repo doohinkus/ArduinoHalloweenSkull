@@ -9,8 +9,7 @@ Motion activated animatronic skull built with Arduino.
 + [Distance Sensor](http://amzn.to/2gBUNNV)
 
 ## Circuit
-
-
+![neat hillar-sango](https://user-images.githubusercontent.com/16198607/31567648-68bea57e-b025-11e7-878c-6037fa880bd3.png)
 
 
 
