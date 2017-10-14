@@ -65,7 +65,8 @@ void loop() {
   // The same pin is used to read the signal from the PING))): a HIGH pulse
   // whose duration is the time (in microseconds) from the sending of the ping
   // to the reception of its echo off of an object.
-  //four pin models have a separate pins for this, which makes better sense. 
+  //four pin models similar sensors have a separate pins for this, which makes better sense:
+  //one pin for the trigger and another for the echo
   pinMode(trigPin, INPUT);
   duration = pulseIn(trigPin, HIGH);
   
