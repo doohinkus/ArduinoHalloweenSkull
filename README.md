@@ -6,7 +6,7 @@ Motion activated animatronic skull built with Arduino.
 ## Requirements
 + [Arduino Uno](http://amzn.to/2hGccVq)
 + [Micro Servo](http://amzn.to/2hFLUCM)
-+ [Distance Sensor](http://amzn.to/2z7jYic) This is the more expensive 3 pin sensor, you can use the cheaper 4 pin sensors, but you'll have to add a DIGITAL echo pin (pin 3 is nice) in the set up and modify the script a bit.
++ [Distance Sensor](http://amzn.to/2z7jYic) This is the more expensive 3 pin sensor, you can use the cheaper 4 pin sensors, but you'll have to add a DIGITAL echo pin (pin 2 is nice) in the set up and modify the script a bit.
 + Breadboard & Jumper Wires (3 Male to Male, 3 Female to Male)
 
 ## Circuit
