@@ -7,6 +7,7 @@ Motion activated animatronic skull built with Arduino.
 + [Arduino Uno](http://amzn.to/2hGccVq)
 + [Micro Servo](http://amzn.to/2hFLUCM)
 + [Distance Sensor](http://amzn.to/2gBUNNV)
++ Breadboard & Jumper Wires
 
 ## Circuit
 ![neat hillar-sango](https://user-images.githubusercontent.com/16198607/31567648-68bea57e-b025-11e7-878c-6037fa880bd3.png)
